@@ -102,7 +102,7 @@ export default {
               />
               <div class="text-center">
                 <h5>Matheus Duarte</h5>
-                <p>Tecnologia da informação</p>
+                <p>Tecnologia da Informação</p>
                 </div>
               </div>
             </div>
